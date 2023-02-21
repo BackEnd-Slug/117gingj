@@ -5,6 +5,7 @@
 }
 
 .item2 {
+    position: absolute;
     left: 16px;
     top: 16px;
 }
