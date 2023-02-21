@@ -1,0 +1,10 @@
+.item1 {
+    background: rgb(177, 97, 0);
+    width: 100%;
+    height: 80px;
+}
+
+.item2 {
+    left: 16px;
+    top: 16px;
+}
